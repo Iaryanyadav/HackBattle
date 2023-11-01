@@ -1,0 +1,46 @@
+h1{
+    text-align: center;
+    size: 1.5rem;
+    font-family: 'Raleway', sans-serif;
+}
+h2{
+    font-family: 'Roboto Slab', serif;
+}
+.but{
+    text-align: center;
+    border: 1px;
+    padding-bottom: 6px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 6px;
+    border-radius: 3px;
+}
+h3{
+    font-family: 'Roboto Slab', serif;
+    text-align: center;
+}
+#Re{
+    font-family: 'Raleway',sans-serif;
+    font-size: larger;
+    font-weight: bold;
+    background-color: #fc9003;
+    color:white;
+    float: right;
+    margin-left: 500px;;
+}
+.vip{
+    height: 200px;
+    width: 200px;
+    margin-bottom: 8px;
+    margin-right: 8px;
+    margin-left: 20px;
+    margin-top: 10px;
+    border: 2px;
+    border-spacing: inherit;
+}
+.vip1{
+    text-align: center;
+    color: aqua;
+    font-size: 35px;
+    background-color: black;
+}
